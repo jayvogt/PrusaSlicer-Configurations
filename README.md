@@ -10,5 +10,6 @@ Ender-3 V2
 - Dual Z-axis
 
 Monoprice Select Mini V2 (Malyan M200 V2)
-- Marlin 2.0.6.2
-- Stock
+- Marlin 2.1.2
+- Ender-3 V2 board
+- BTT Mini 12864 LCD
